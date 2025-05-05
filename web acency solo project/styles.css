@@ -1,0 +1,49 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    
+}
+
+h1{
+    line-height: 62px;
+    font-weight: 800;
+    font-size: 55px;
+    margin-top: 67px;
+    margin-left: 50px;
+    margin-bottom: 25px;
+}
+
+h3{
+    font-weight: 500;
+    font-size: 25px;
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+
+}
+
+
+
+button {
+    color: white;
+    background-color: #0ea5e9;
+    border: none;
+    font-size: 20px;
+    font-weight: 550;
+    margin-left: 50px;
+    padding: 20px 30px;
+    
+}
+
+#underline {
+    border-bottom: 4px solid #0ea5e9;
+}
+
+
+.header {
+    background-image: url("img/faded-office.png");
+    background-size: cover;
+    width: 1025px;
+    height: 555px;
+    border: 3px solid black;
+}
+    
